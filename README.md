@@ -1,1 +1,2 @@
-# AAI614_elarif
+# Hello,
+## This is my first GitHub repository.
